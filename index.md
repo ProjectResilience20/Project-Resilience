@@ -7,6 +7,8 @@ The objective is to provide civil society and small, nimble, and resource-constr
 
 **Resources Created or Translated**
 
+* [Language To Justify Organizational Security in Budgets](resources/Language To Justify Organizational Security in Budgets_EN.pdf)
+* [Organizational and Adversary Archetypes](resources/Organizational and Adversary Archetypes_EN.pdf)
 * [Threat Modeling Handout - Korean](resources/Threat_Modeling_Handout_KR.pdf) (Electronic Frontier Foundation)
 * [Malware Handout - Korean](resources/Malware_Handout_KR.pdf) (Electronic Frontier Foundation)
 * [Two Factor Authentication Handout - Korean](resources/Two_Factor_Authentication_Handout_KR.pdf) (Electronic Frontier Foundation)
@@ -16,7 +18,6 @@ The objective is to provide civil society and small, nimble, and resource-constr
 * [Considerations for Storing and Sharing Data - Korean](resources/Considerations_for_Storing_and_Sharing_Data_KR.pdf) 
 * [Digital Security Advice when Travelling - Korean](resources/Digital_Security_Advice_when_Travelling_KR.pdf)
 * [10 Digital Security Tips - Korean](resources/10_Digital_Security_Tips_KR.pdf)  
-* 
 
 
 **Draft Organizational Security Policies**
