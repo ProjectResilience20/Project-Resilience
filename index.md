@@ -12,7 +12,7 @@ The objective is to provide civil society and small, nimble, and resource-constr
 * 
 
 **Draft Organizational Security Policies**
-* [Bring Your Own Device Policy]
+* [Bring Your Own Device Policy](resources/BYOD_KR) 
 * [Email Policy] 
 * [Employee Internet Usage Policy]
 * [Encryption Policy]
