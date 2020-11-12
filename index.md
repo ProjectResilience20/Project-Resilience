@@ -9,6 +9,7 @@ The objective is to provide civil society and small, nimble, and resource-constr
 
 * [Language To Justify Organizational Security in Budgets](resources/Language To Justify Organizational Security in Budgets_EN.pdf)
 * [Organizational and Adversary Archetypes](resources/Organizational and Adversary Archetypes_EN.pdf)
+* [Threat Analysis Summary](resources/Threat Analysis Summary_EN.pdf)
 * [Threat Modeling Handout - Korean](resources/Threat_Modeling_Handout_KR.pdf) (Electronic Frontier Foundation)
 * [Malware Handout - Korean](resources/Malware_Handout_KR.pdf) (Electronic Frontier Foundation)
 * [Two Factor Authentication Handout - Korean](resources/Two_Factor_Authentication_Handout_KR.pdf) (Electronic Frontier Foundation)
